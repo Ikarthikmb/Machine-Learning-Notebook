@@ -1,4 +1,4 @@
-# Internship on Machine Learning and Artificial Intelligence 
+# Algorithms on Machine Learning and Artificial Intelligence 
 
 This place is a workspace for learning Artificial Intelligence ,Machine Learning, and Deep Learning as a part of my course.
 
