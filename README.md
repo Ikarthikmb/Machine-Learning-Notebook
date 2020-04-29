@@ -72,6 +72,7 @@ This repository is a workspace for learning Artificial Intelligence, Machine Lea
 - Categorical Data
 - Splitting Data
 - Feature Scaling
+
 **Github:** [Day12(6June19).ipynb](https://github.com/Ikarthikmb/Machine-Learning-Notebook/blob/master/Day12(6June19).ipynb)
 
 ## [Machine learning Fundamentals](#contents)
