@@ -86,8 +86,12 @@ This repository is a workspace for learning Artificial Intelligence, Machine Lea
 
 **Github:** [Day15(10June19).ipynb](https://github.com/Ikarthikmb/Machine-Learning-Notebook/blob/master/Day15(10June19).ipynb)
 
-## [Day16(11June19)](https://github.com/Ikarthikmb/Machine-Learning-Notebook/blob/master/Day16(11June19).ipynb)
+## [Day16(11June19)](#contents:)
 
-## [House Sale Price Prediction using Linear Regression](https://github.com/Ikarthikmb/Machine-Learning-Notebook/blob/master/Project2.ipynb)
+**Github:** [Day16(11June19)](https://github.com/Ikarthikmb/Machine-Learning-Notebook/blob/master/Day16(11June19).ipynb)
+
+## [House Sale Price Prediction using Linear Regression](#contents:)
+
+**Github:** [House Sale Price Prediction using Linear Regression](https://github.com/Ikarthikmb/Machine-Learning-Notebook/blob/master/Project2.ipynb)
 
 ---
