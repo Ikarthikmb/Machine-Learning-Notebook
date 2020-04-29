@@ -4,7 +4,7 @@ This repository is a workspace for learning Artificial Intelligence, Machine Lea
 
 ---
 
-## Contents: 
+## Contents 
 
 1. [Data Analysis of Mobile apps data](#data-analysis-of-mobile-apps-data)
 2. [28 May 2019](#28-May-2019)
@@ -19,7 +19,7 @@ This repository is a workspace for learning Artificial Intelligence, Machine Lea
 
 ---
 
-## [Data Analysis of Mobile apps data](#contents:)
+## [Data Analysis of Mobile apps data](#contents)
 
  - Calculate the average rating for free apps
  - Calculate the average rating for non-free apps
@@ -39,7 +39,7 @@ This repository is a workspace for learning Artificial Intelligence, Machine Lea
   
 **Github:** [Day_01.ipynb](https://github.com/Ikarthikmb/Machine-Learning-Notebook/blob/master/Day_01.ipynb)
 
-## [28 May 2019](#contents:)
+## [28 May 2019](#contents)
 
 1. Print no. of matches won by each team based on year wise (each year as one column)
 2. Print  ManOfMach count of each player in  Hyderabad stadium
@@ -47,14 +47,14 @@ This repository is a workspace for learning Artificial Intelligence, Machine Lea
 
 **Github:** [Day_4(28.May.19)_Matches_Display.ipynb](https://github.com/Ikarthikmb/Machine-Learning-Notebook/blob/master/Day_4(28.May.19)_Matches_Display.ipynb)
 
-## [Problem Set using OOPs concepts](#contents:)
+## [Problem Set using OOPs concepts](#contents)
 
 1. Draw a pie plot based on number of wins for each team
 2. Draw a bar graph for number of matches won (i,e.consider win if the team wins both the toss and match)  for the team “Mumbai Indians” for all years
 
 **Github:** [Day 6 (30 May 19).ipynb](https://github.com/Ikarthikmb/Machine-Learning-Notebook/blob/master/Day%206%20(30%20May%2019).ipynb)
 
-## [Pre-processing of the data](#contents:)
+## [Pre-processing of the data](#contents)
 
 - Get the dataset
 - Importing Libraries
@@ -66,7 +66,7 @@ This repository is a workspace for learning Artificial Intelligence, Machine Lea
 
 **Github:** [Data Munging-Day11(5June19).ipynb](https://github.com/Ikarthikmb/Machine-Learning-Notebook/blob/master/Data%20Munging-Day11%285June19%29.ipynb)
 
-## [Day 12 (6.June.19)](#contents:)
+## [Day 12 (6.June.19)](#contents)
 
 - Missing Values
 - Categorical Data
@@ -74,23 +74,23 @@ This repository is a workspace for learning Artificial Intelligence, Machine Lea
 - Feature Scaling
 **Github:** [Day12(6June19).ipynb](https://github.com/Ikarthikmb/Machine-Learning-Notebook/blob/master/Day12(6June19).ipynb)
 
-## [Machine learning Fundamentals](#contents:)
+## [Machine learning Fundamentals](#contents)
 
 - Documents regarding [Fundamentals of Machine learning](https://drive.google.com/drive/folders/1F1PCaI1fz_JQzVSEK3K7v2KbqFfbZ6cf).
 
-## [Linear Regression](#contents:)
+## [Linear Regression](#contents)
 
 **Github:** [Day14(8June19).ipynb](https://github.com/Ikarthikmb/Machine-Learning-Notebook/blob/master/Day14(8June19).ipynb)
 
-## [seaborn](#contents:)
+## [seaborn](#contents)
 
 **Github:** [Day15(10June19).ipynb](https://github.com/Ikarthikmb/Machine-Learning-Notebook/blob/master/Day15(10June19).ipynb)
 
-## [Day16(11June19)](#contents:)
+## [Day16(11June19)](#contents)
 
 **Github:** [Day16(11June19)](https://github.com/Ikarthikmb/Machine-Learning-Notebook/blob/master/Day16(11June19).ipynb)
 
-## [House Sale Price Prediction using Linear Regression](#contents:)
+## [House Sale Price Prediction using Linear Regression](#contents)
 
 **Github:** [House Sale Price Prediction using Linear Regression](https://github.com/Ikarthikmb/Machine-Learning-Notebook/blob/master/Project2.ipynb)
 
