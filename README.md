@@ -1,4 +1,4 @@
-# Machine Learning
+# Machine Learning with Python
 
 This repository is a workspace for learning Artificial Intelligence, Machine Learning, and Deep Learning as a part of my course. The best way to get started is to navigate through the repository or [click here](https://sites.google.com/view/2210416132-internship-on-data-/home) for directing to the main website.
 
