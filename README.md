@@ -3,9 +3,25 @@
 This repository is a workspace for learning Artificial Intelligence, Machine Learning, and Deep Learning as a part of my course.
 
 The best way to get started is to navigate through the repository or 
-[click here](https://sites.google.com/view/2210416132-internship-on-data-/home?authuser=0) for directing to the main website.
+[click here](https://sites.google.com/view/2210416132-internship-on-data-/home) for directing to the main website.
 
-1. [Data Analysis of Mobile apps data]()
+---
+
+## Contents: 
+
+1. Data Analysis of Mobile apps data
+2. 28 May 2019
+3. Problem Set using OOPs concepts
+4. Pre-processing of the data
+5. Day 12 (6.June.19)
+6. Machine learning Fundamentals
+7. Linear Regression
+8. seaborn
+9. Day16(11June19)
+
+---
+
+## [Data Analysis of Mobile apps data]()
 
  - Calculate the average rating for free apps
  - Calculate the average rating for non-free apps
