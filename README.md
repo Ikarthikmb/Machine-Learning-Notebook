@@ -1,9 +1,6 @@
 # Machine Learning
 
-This repository is a workspace for learning Artificial Intelligence, Machine Learning, and Deep Learning as a part of my course.
-
-The best way to get started is to navigate through the repository or 
-[click here](https://sites.google.com/view/2210416132-internship-on-data-/home) for directing to the main website.
+This repository is a workspace for learning Artificial Intelligence, Machine Learning, and Deep Learning as a part of my course. The best way to get started is to navigate through the repository or [click here](https://sites.google.com/view/2210416132-internship-on-data-/home) for directing to the main website.
 
 ---
 
@@ -18,6 +15,7 @@ The best way to get started is to navigate through the repository or
 7. Linear Regression
 8. seaborn
 9. Day16(11June19)
+10. Project: House Sale Price Prediction using Linear Regression
 
 ---
 
@@ -92,4 +90,4 @@ The best way to get started is to navigate through the repository or
 
 ## [House Sale Price Prediction using Linear Regression](https://github.com/Ikarthikmb/Machine-Learning-Notebook/blob/master/Project2.ipynb)
 
-
+---
